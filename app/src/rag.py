@@ -56,6 +56,9 @@ def answer(question, k=6, chunk_size=800, overlap=150, use_filter=True):
             f"Previous answer:\n{text}"
         )
         text, model = ask(prompt + reminder, system=SYSTEM, return_model=True)
+        direct = text.lstrip().startswith("[DIRECT]")
+        if direct:
+            text = text.lstrip()[len("[DIRECT]"):].strip()
         valid, invalid, refused = parse_citations(text, len(hits))
         retried = True
 
