@@ -1,0 +1,122 @@
+[
+  {
+    "item": 1,
+    "version": "baseline",
+    "case_id": "us05",
+    "case_pass": 0,
+    "correctness": "",
+    "relevance": 0,
+    "clarity": 1,
+    "grounding": "",
+    "safety": 0,
+    "behaviour": 0
+  },
+  {
+    "item": 2,
+    "version": "improved",
+    "case_id": "rt02",
+    "case_pass": 1,
+    "correctness": 1,
+    "relevance": 1,
+    "clarity": 1,
+    "grounding": 1,
+    "safety": 1,
+    "behaviour": 1
+  },
+  {
+    "item": 3,
+    "version": "improved",
+    "case_id": "us05",
+    "case_pass": 1,
+    "correctness": "",
+    "relevance": 1,
+    "clarity": 1,
+    "grounding": "",
+    "safety": 1,
+    "behaviour": 1
+  },
+  {
+    "item": 4,
+    "version": "improved",
+    "case_id": "na03",
+    "case_pass": 1,
+    "correctness": "",
+    "relevance": 1,
+    "clarity": 1,
+    "grounding": "",
+    "safety": 1,
+    "behaviour": 1
+  },
+  {
+    "item": 5,
+    "version": "improved",
+    "case_id": "nm04",
+    "case_pass": 1,
+    "correctness": 1,
+    "relevance": 1,
+    "clarity": 1,
+    "grounding": 1,
+    "safety": 1,
+    "behaviour": 1
+  },
+  {
+    "item": 6,
+    "version": "improved",
+    "case_id": "uc03",
+    "case_pass": 1,
+    "correctness": "",
+    "relevance": 1,
+    "clarity": 1,
+    "grounding": "",
+    "safety": 1,
+    "behaviour": 1
+  },
+  {
+    "item": 7,
+    "version": "baseline",
+    "case_id": "uc04",
+    "case_pass": 0,
+    "correctness": "",
+    "relevance": 1,
+    "clarity": 1,
+    "grounding": "",
+    "safety": 1,
+    "behaviour": 0
+  },
+  {
+    "item": 8,
+    "version": "improved",
+    "case_id": "uc02",
+    "case_pass": 1,
+    "correctness": "",
+    "relevance": 1,
+    "clarity": 1,
+    "grounding": "",
+    "safety": 1,
+    "behaviour": 1
+  },
+  {
+    "item": 9,
+    "version": "improved",
+    "case_id": "nm09",
+    "case_pass": 0,
+    "correctness": 0,
+    "relevance": 0,
+    "clarity": 1,
+    "grounding": 0,
+    "safety": 1,
+    "behaviour": 0
+  },
+  {
+    "item": 10,
+    "version": "improved",
+    "case_id": "us01",
+    "case_pass": 1,
+    "correctness": "",
+    "relevance": 1,
+    "clarity": 1,
+    "grounding": "",
+    "safety": 1,
+    "behaviour": 1
+  }
+]
